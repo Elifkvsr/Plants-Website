@@ -1,2 +1,2 @@
 NodeJS ve Tailwindcss kullanarak web sitesi yapma.
-https://tailwindcss-coralwebsite.netlify.app/
+https://tailwindcss-coralwebsit-elifkvsr.netlify.app/
